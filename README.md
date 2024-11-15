@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar.</h1>
-<h3 align="center">A passionate Frontend developer from India.</h3>
+<h3 align="center">A passionate Fullstack developer from India.</h3>
 <img align="right" alt="Coding" width="400"src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2dyM3UydXdxMWMyNHBlNXlvM2U0emd4ZmV6MXFseHJpdGU2dzlmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkumarcse&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkumarcse" /> </p>
 
-- 🌱 I’m currently learning advanced concepts of **Spring Boot and React.**
+- 🌱 I’m currently learning advanced concepts of **Spring Boot and Kafka.**
 
 - 💬 Ask me about **Competitive Coding, C++, React, Next js, Spring Boot.**
 
